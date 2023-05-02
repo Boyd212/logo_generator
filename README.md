@@ -1,3 +1,22 @@
+# Challenge 10. Logo generator
+## Description
+This is a command line application that asks the user for 3 text characters, a shape for thier logo, and colors.  It dynamically creates a logo graphic based on the user's input and overwrites the logo.svg file with the newly created logo.
+
+## Motivation
+Need to quickly generate a simple logo with colors.
+
+## Usage and Installation
+To run, open in terminal. Use "npm i" to load in dependant packages "Inquirer", "FileSystem(or fs)", "Jest" and optionally "Mocha." run tests via "node shape.test.js" command, run Logo Generator via "node index.js" command. Answer questions as prompted, view logo with browser, copy code from logo.svg from the file "logo.svg."
+
+## LICENSE
+N/A
+
+## Walkthrough Video link
+
+
+## GitHub Repository
+https://github.com/Boyd212/logo_generator
+--------------------------------------------------------------------
 # 10 Object-oriented Programming: SVG Logo Maker
 
 ## Your Task
