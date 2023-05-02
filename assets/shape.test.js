@@ -1,7 +1,7 @@
 const {  Square, Triangle, Circle } = require("./shape.js");
-let mocha = require('mocha');
-const describe = require('mocha');
-const test = require('mocha');
+//et mocha = require('mocha');
+//const describe = require('mocha');
+//const test = require('mocha');
 //mocha.ui('bdd').run(function (failures) {
    // process.on('exit', function () {
      // process.exit(failures);

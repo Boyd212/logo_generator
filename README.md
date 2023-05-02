@@ -12,7 +12,7 @@ To run, open in terminal. Use "npm i" to load in dependant packages "Inquirer", 
 N/A
 
 ## Walkthrough Video link
-
+https://drive.google.com/file/d/1xDJ1BgP3MLFVQ-7gjyHc7_y-u6hyMGn5/view
 
 ## GitHub Repository
 https://github.com/Boyd212/logo_generator
